@@ -1,8 +1,8 @@
 carts:
-  enabled: false
+  enabled: true
 carts-db:
-  enabled: false
+  enabled: true
 carts-db-generated:
-  enabled: false
+  enabled: true
 carts-generated:
-  enabled: false
+  enabled: true
